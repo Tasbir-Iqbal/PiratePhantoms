@@ -1,0 +1,2 @@
+Player1Name=Tasbir
+Player2Name=Shefa

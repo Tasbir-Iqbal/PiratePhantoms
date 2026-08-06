@@ -1,0 +1,6 @@
+Player 2: 296
+Player 1: 190
+Player 2: 177
+Player 2: 163
+Player 2: 62
+Player 1: 10
